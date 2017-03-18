@@ -26,8 +26,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [1] List anything else that you can get done to improve the app functionality!
-Added a feature of Tax. User can select the state and app will pull up the percentage amount that would apply on the bill. I used view picker to make that.
+- [1] Added a feature of Tax. User can select the state and app will pull up the percentage amount that would apply on the bill. I used view picker to make that.
 
 ## Notes
 
